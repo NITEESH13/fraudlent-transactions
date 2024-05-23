@@ -1,2 +1,3 @@
+Our system, which combines heuristics and multi-layer Elman Relational Neural Networks to detect whether a transaction is fraudulent, is demonstrated in a mobile react native app.
 
-Mobile react native app that showcases our algorithm that utilizes multi-layer Elman Relational Neural Networks as well as heuristics to predict whether or not a transaction is fraudulent
+
